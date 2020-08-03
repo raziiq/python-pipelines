@@ -1,0 +1,1 @@
+This repo demonstrates the use of pipelines in Python for preprocessing and modeling machine learning algorithms
